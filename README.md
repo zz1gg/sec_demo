@@ -1,3 +1,3 @@
 # secdemo
 
-This repository is dedicated to documenting the creation of small-scale security tools. It is intended solely for research and educational purposes. Please refrain from utilizing it for any other intentions, as the consequences will be borne by the user.
+This repository is designated for documenting the development of security tool demos, solely intended for research and educational purposes. Please refrain from utilizing them for any other purposes. Should individuals choose to employ these tools in unethical or unlawful contexts, they bear the responsibility for the consequences incurred.
